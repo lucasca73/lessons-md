@@ -15,3 +15,6 @@ Prof. Benjamin introduces two concepts in the lesson:
 
 ``- Overshoot makes a stronger action by adding the recovery frames at the end.``
 
+Exercise:
+
+<img width="700" height="494" alt="Image" src="https://github.com/user-attachments/assets/5d00dfd7-7b28-4d8f-bb46-e458acc538dd" />
