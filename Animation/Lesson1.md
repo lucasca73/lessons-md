@@ -18,3 +18,12 @@ Prof. Benjamin introduces two concepts in the lesson:
 Exercise:
 
 <img width="700" height="494" alt="Image" src="https://github.com/user-attachments/assets/5d00dfd7-7b28-4d8f-bb46-e458acc538dd" />
+
+Concepts of Squash and Stretch.
+
+Basically playing with the volume of an object. As more it strechts or squashes it tells more about what is the material, hardeness, weight, a lot of it's properties.
+
+The exercise consist in animating different kinds of materials. A rock, a ball and some Slime ish.
+
+<img width="700" height="494" alt="Image" src="https://github.com/user-attachments/assets/8b1f47b9-2a74-40a1-830b-c4791be407da" />
+
