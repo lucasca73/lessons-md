@@ -37,3 +37,7 @@ The idea here is to start creating a character. The first step is to define the 
 ### Band exagerated Squash and Strech
 
 <img width="350" height="247" alt="Image" src="https://github.com/user-attachments/assets/73f9a454-1995-40a9-8d1d-a33df4d7a683" />
+
+- With Audio https://github.com/user-attachments/assets/df217aa6-8f26-4822-bd20-442526635001
+<video src="https://github.com/user-attachments/assets/df217aa6-8f26-4822-bd20-442526635001" width="300" controls>
+</video>
