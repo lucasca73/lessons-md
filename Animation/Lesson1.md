@@ -34,3 +34,6 @@ The idea here is to start creating a character. The first step is to define the 
 
 <img width="700" height="494" alt="Image" src="https://github.com/user-attachments/assets/6a1a939e-bad1-48f6-be8b-f191b6f85995" />
 
+### Band exagerated Squash and Strech
+
+<img width="350" height="247" alt="Image" src="https://github.com/user-attachments/assets/73f9a454-1995-40a9-8d1d-a33df4d7a683" />
