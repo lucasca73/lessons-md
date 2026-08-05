@@ -27,3 +27,10 @@ The exercise consist in animating different kinds of materials. A rock, a ball a
 
 <img width="700" height="494" alt="Image" src="https://github.com/user-attachments/assets/8b1f47b9-2a74-40a1-830b-c4791be407da" />
 
+
+## Bouncing Character
+
+The idea here is to start creating a character. The first step is to define the 3x ball animations and add a different expression for each one.
+
+<img width="700" height="494" alt="Image" src="https://github.com/user-attachments/assets/6a1a939e-bad1-48f6-be8b-f191b6f85995" />
+
