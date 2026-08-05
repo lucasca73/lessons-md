@@ -41,3 +41,10 @@ The idea here is to start creating a character. The first step is to define the 
 - With Audio https://github.com/user-attachments/assets/df217aa6-8f26-4822-bd20-442526635001
 <video src="https://github.com/user-attachments/assets/df217aa6-8f26-4822-bd20-442526635001" width="300" controls>
 </video>
+
+### Morphism Exercise
+
+Turning an object or character into another.
+
+<img width="700" height="494" alt="Image" src="https://github.com/user-attachments/assets/9bae7396-bd26-40a3-9cb2-16d5295148de" />
+
