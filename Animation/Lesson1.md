@@ -38,7 +38,8 @@ The idea here is to start creating a character. The first step is to define the 
 
 <img width="350" height="247" alt="Image" src="https://github.com/user-attachments/assets/73f9a454-1995-40a9-8d1d-a33df4d7a683" />
 
-- With Audio https://github.com/user-attachments/assets/df217aa6-8f26-4822-bd20-442526635001
+### Adding audio to the animation
+
 <video src="https://github.com/user-attachments/assets/df217aa6-8f26-4822-bd20-442526635001" width="300" controls>
 </video>
 
@@ -48,3 +49,36 @@ Turning an object or character into another.
 
 <img width="700" height="494" alt="Image" src="https://github.com/user-attachments/assets/9bae7396-bd26-40a3-9cb2-16d5295148de" />
 
+
+# Character Development
+
+## Use Simple Shapes
+
+- Flat shapes will reflect a flat draw
+- Curves and shapes like cylinder, cone, cube, will add depth to the draw
+
+### Character Shapes Exercise
+
+#### Shape Study
+To study a shape let's do 2 basic steps. Quantity is important, but variaty is crucial to learn options and different decisions.
+1. Get references
+2. Notice character shapes
+
+<img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/e66ce8da-1870-45be-82d0-87c0e0a6f739" />
+
+- Noticed that some characters have connected shapes, no necessarily elipses.
+- There is a relation for the head and body width. bigger head gives a more childish look
+- Each accessory or cloth may have its own shape instead of following the main silhouete.
+- Straight lines provoke a sharp look may indicate danger / aggressiveness instability. Curved and closed shapes gives more comfort .
+
+
+#### Shape Exercise
+
+## Character Sheet
+
+- Must have different poses, with different highlights for each pose
+- When distributing the poses in the sheet it is nice to think in the composition to communicate a clean Character Sheet. Thinking on poses that fits in the corner, fill spaces between poses, distribute poses as a shape or couple of lines, be aware of intersections between lines.
+
+### Character Sheet exercise
+
+## Choosing Colors
