@@ -81,4 +81,16 @@ To study a shape let's do 2 basic steps. Quantity is important, but variaty is c
 
 ### Character Sheet exercise
 
+#### Character Sketches
+
+Looking for something that I could relate to. Trying shapes and heads, different body proportion and size. 
+
+<img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/22eca59e-5965-41db-9c76-30d6d4b3e469" />
+
+#### Character Sheet
+
+The character is friendly. Has a belly, comes from a warm place, wears a crux collar, Flip Flops, Shirt without sleeves and a short. The hair get's a bit bigger than the head.
+
+<img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/63d0188e-5405-4367-b99d-ef5466c639c0" />
+
 ## Choosing Colors
