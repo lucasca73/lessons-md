@@ -94,3 +94,14 @@ The character is friendly. Has a belly, comes from a warm place, wears a crux co
 <img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/63d0188e-5405-4367-b99d-ef5466c639c0" />
 
 ## Choosing Colors
+
+When selecting colors, try to keep colors in the same area of saturation. Colors with similar saturation values creates less tension.
+In the image saturation is the right side of the triangle.
+
+<img width="149" height="155" alt="Image" src="https://github.com/user-attachments/assets/9a3bfbf9-3284-4657-9148-9a585c969216" />
+
+#### Colored Character
+
+Green and Blue for the clothes. Brown for Hair and Flip Flop. Red for the object, it's the only one with a high saturation, appears that fits better as a Soda Can. Tried to keep shadows as minimal as possible. No Highlights. 
+
+<img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/d2156772-3b24-4b4c-aaa6-7fd33dc561ad" />
