@@ -102,6 +102,8 @@ In the image saturation is the right side of the triangle.
 
 #### Colored Character
 
-Green and Blue for the clothes. Brown for Hair and Flip Flop. Red for the object, it's the only one with a high saturation, appears that fits better as a Soda Can. Tried to keep shadows as minimal as possible. No Highlights. 
+Green and Blue for the clothes. Brown for Hair and Flip Flop. Red for the object, it's the only one with a high saturation, appears that fits better as a Soda Can. Tried to keep shadows as minimal as possible. No Highlights.
+
+- I noticed that there is a difference in volume for arms and legs, and the whole shirt slightly changes on every draw.
 
 <img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/d2156772-3b24-4b4c-aaa6-7fd33dc561ad" />
