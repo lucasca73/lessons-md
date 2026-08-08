@@ -107,3 +107,17 @@ Green and Blue for the clothes. Brown for Hair and Flip Flop. Red for the object
 - I noticed that there is a difference in volume for arms and legs, and the whole shirt slightly changes on every draw.
 
 <img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/d2156772-3b24-4b4c-aaa6-7fd33dc561ad" />
+
+## Walk Cycle
+
+#### Walk cycle legs sketch
+
+<img width="700" height="494" alt="Image" src="https://github.com/user-attachments/assets/ced471d5-f9e3-4ea0-95df-5d7dda4432c7" />
+
+
+#### Background 
+
+<img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/9df68988-fb01-4e83-b746-9b677fb65506" />
+
+#### Background + Character
+
