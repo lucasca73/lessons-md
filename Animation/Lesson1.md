@@ -121,3 +121,6 @@ Green and Blue for the clothes. Brown for Hair and Flip Flop. Red for the object
 
 #### Background + Character
 
+I decided to finish as it is. Due to the complexity of the character and the work needed to fix the structure I choosed to finish instead of giving up. My criticism is tough but I need to come to the reality as this is my best at the moment. I hope to look it in the future as a learning step and recognize the effort that I put into it.
+
+<img width="700" height="494" alt="Image" src="https://github.com/user-attachments/assets/b1012c6c-3b77-4186-a424-96198fb4641b" />
