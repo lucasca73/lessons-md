@@ -19,4 +19,8 @@ Some learnings from this introduction are:
 
 ## Lesson 2 - Applying and Sketching in Colours Quickly
 
-Coming soon
+Philip Sue shared the color palletes, this helped skipping the step of color reseach. The idea was follow each color pallete as the colors rows on the left. But colors from other rows could also be used. Coloring and lighting usually talks together but as the light is not the topic for this lesson, it was kind of implicit to limit it to use only two.
+
+The art from Philip Sue were much more intriguing than the ones I made, The ones he did had a more dynamic feeling for the shapes he used. Also I noticed that all my landscapes background were kind of following the horizon line. The rock shapes were also kind of the same I think. Although I really liked the Sea and the Cave ones, these two I did without reference from the teacher art because as I missed the image proportions would fit the screen, so I choosed to use a vertical rectangle and a horizontal one to fill the gap, and it was great. 
+
+<img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/ee2d78ee-e865-4bf5-a536-ce65f3c4c7ef" />
