@@ -48,3 +48,9 @@ This lesson adds more life to the landscape, adding grass, objects, more rocks, 
 
 
 <img width="2280" height="808" alt="Image" src="https://github.com/user-attachments/assets/77fe680c-2f00-4cef-b36a-936e75357dc8" />
+
+<img width="3181" height="518" alt="Image" src="https://github.com/user-attachments/assets/6f1b4d52-7eba-44c4-8791-71f3a05d124f" />
+
+## Lesson 6 - Refining
+
+The refinement from Philip is mainly fixing shapes and trying more interest to the piece. Looks like all the work so far was not still rough and I kind of see it right now. But I am satisfied with the result so far, I've never put so much organized processed work into a drawing. Also happy that a lot of different pieces came as result. So I am finishing with the current result not so refined but I am glad with it.
