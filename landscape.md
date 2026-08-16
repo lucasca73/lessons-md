@@ -31,3 +31,9 @@ The art from Philip Sue were much more intriguing than the ones I made, The ones
 Philip shared a really simple technique to add more interest to the landscape. A simple large and soft brush can make a really difference when you apply consistenly across the layers. The exercise consist in exploring 2 variations of light/shadow one closer to the viewer (foreground) and the other highlighting the background. It is funny to see how the mood can change hiding the background or highlighting it.
 
 <img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/a59c8d23-0e31-4ea3-8c66-52b13cc47e03" />
+
+## Lesson 4 - Atmosphere
+
+On this lesson the main technique is to add fog as the atmosphere impact, so colors from the light source or something that makes the smoke, fog, air color. Use Large soft brushes. Base of the mountains as the atmoshpere has more impact close to the horizon. Can also add the details as sand in the air, or something that is in the air. 
+
+<img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/544e8669-ca98-4b2c-870f-46ba665f2454" />
