@@ -37,3 +37,14 @@ Philip shared a really simple technique to add more interest to the landscape. A
 On this lesson the main technique is to add fog as the atmosphere impact, so colors from the light source or something that makes the smoke, fog, air color. Use Large soft brushes. Base of the mountains as the atmoshpere has more impact close to the horizon. Can also add the details as sand in the air, or something that is in the air. 
 
 <img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/544e8669-ca98-4b2c-870f-46ba665f2454" />
+
+## Lesson 5 - Population
+
+This lesson adds more life to the landscape, adding grass, objects, more rocks, not replacing anything, just adding a bit more life and detail to the piece.
+- On sand I choosed to add a little more rocks and couple of plants with tiny variantions
+- On spikes I choosed to add more shapes to the background layers to add a story to the piece, some ruins as silhouete.
+
+<img width="2883" height="1609" alt="Image" src="https://github.com/user-attachments/assets/18debb14-9aea-496b-a491-ad7920587aa9" />
+
+
+<img width="2280" height="808" alt="Image" src="https://github.com/user-attachments/assets/77fe680c-2f00-4cef-b36a-936e75357dc8" />
