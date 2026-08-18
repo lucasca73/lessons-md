@@ -40,4 +40,19 @@ Purple, Red, Blue, Black.
 
 <img height="620" alt="Image" src="https://github.com/user-attachments/assets/b1bf978d-4c57-4abe-b7f7-7c63ea91be04" />
 
+## Color Schemes
 
+Character schemes are a set of colors that can work together to achieve harmony and intention.
+- Analogous color are adjacents colors, neighbors, and they can work together as a pair to bring harmony.
+- Complementary Colors are opposite in the color Wheel. Usually good for highlights and shadows.
+- Split Complementary to have a key color and to use the analogous colors of the complementary one.
+- Triadic can lead to chaos. Has a lot of contrast. It's appealing.
+- Rectangular two pairs of opposite colors, brings diversity.
+
+With these schemes in mind I wanted to review the colors used in the previous drawing for the character.
+
+<img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/6da65bf4-ff62-46f5-a895-d684df4ca13e" />
+
+Using the technique from Rhea to add warm to some parts to highlight and also using the opposite color as light.
+
+<img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/329387e7-d9fe-4903-9ad1-6e950b562f89" />
