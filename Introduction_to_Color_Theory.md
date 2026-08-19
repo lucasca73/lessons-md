@@ -56,3 +56,14 @@ With these schemes in mind I wanted to review the colors used in the previous dr
 Using the technique from Rhea to add warm to some parts to highlight and also using the opposite color as light.
 
 <img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/329387e7-d9fe-4903-9ad1-6e950b562f89" />
+
+## Color Harmony
+
+Harmony can make colors to appear having a diferent saturation, value or hue depending on the surronding color.
+In this exercise lets shift the palette acording to light, shadow and key color.
+
+- The craziest thing is the cape in the lighter palette, the purple appears orange in the cape, but the in the palette it remains purple. They are the 100% same color.
+
+<img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/064a535a-fb65-4e56-81c5-c3ee9dee0642" />
+
+
