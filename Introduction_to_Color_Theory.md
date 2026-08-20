@@ -67,3 +67,11 @@ In this exercise lets shift the palette acording to light, shadow and key color.
 <img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/064a535a-fb65-4e56-81c5-c3ee9dee0642" />
 
 
+## Grayscale values and coloring
+
+<img height="480" alt="Image" src="https://github.com/user-attachments/assets/c8284eee-9b15-46ee-832f-56261d86d3c7" />
+
+<img  height="480" alt="Image" src="https://github.com/user-attachments/assets/4f12381f-7a6c-487d-8640-27443bf50813" />
+
+<img width="3508" height="2480" alt="Image" src="https://github.com/user-attachments/assets/c78f0189-3abd-45a1-912a-26f209f0722f" />
+
